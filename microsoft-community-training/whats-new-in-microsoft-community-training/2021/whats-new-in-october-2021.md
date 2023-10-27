@@ -10,7 +10,7 @@ ms.prod: learning-azure
 
 As the world moves towards the last quarter of the year 2021, the fight against the pandemic has gained momentum with vaccination drives being conducted around the world. In line with this, the Microsoft Community Training Team has worked its way through this phase to make the platform a better place to manage and learn.
 
-We are excited to share the new product update of Microsoft Community Training with you! Following are some key features introduced in this release that are designed to help you continue to manage and deliver online learning seamlessly to your community.
+We are excited to share the new Microsoft Community Training product update with you. Here are some key features introduced in this release that are designed to help you continue to manage and deliver online learning seamlessly to your community.
 
 ## Multiple authentication modes in a single instance
 
