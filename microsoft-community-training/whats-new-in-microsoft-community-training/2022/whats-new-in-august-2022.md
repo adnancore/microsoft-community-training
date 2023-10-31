@@ -2,23 +2,23 @@
 title: What's new in August 2022
 author: v-sambati
 ms.author: v-sambati
-description: This document details the new features and capabilities launched on the Microsoft Community Training platform in August 2022. 
+description: This document details the new features and capabilities launched on Community Training in August 2022. 
 ms.prod: learning-azure
 ---
 
 # What’s new in August 2022
 
-We are excited to share the new Microsoft Community Training product update with you. These features in this release are designed to enhance the management and delivery of online learning modules seamlessly to your community.
+We are excited to share the new Community Training product update with you. The features in this release are designed to enhance the management and delivery of online learning modules seamlessly to your community.
 
 ## Associated profile fields
 
-As an admin you can now create [dependencies](../../settings/add-additional-profile-fields-for-user-information.md#steps-to-create-associated-profile-fields) among profile fields in MCT. Field dependency means, controlling a field value based on another field. For example, there are two fields called Country and State. Suppose you want to display only states related specific selected country when you select Country.
+As an admin you can now create [dependencies](../../settings/add-additional-profile-fields-for-user-information.md#steps-to-create-associated-profile-fields) among profile fields in CT. Field dependency means, controlling a field value based on another field. For example, there are two fields called Country and State. Suppose you want to display only states related specific selected country when you select Country.
 
 :::image type="content" source="../../media/depchooseoptions.png" alt-text="associatedupload":::
 
 ## Organization Branding
 
-Microsoft community training now lets you [customize the look](../../user-management/organization-management.md#customize-look-and-feel-of-your-organizations) and feel of your [Organization(s)](../../user-management/organization-management.md#organization-management). When a learner from a specific organization signs in to MCT their experience would be customized to the settings of their respective organization.
+Community Training now lets you [customize the look](../../user-management/organization-management.md#customize-look-and-feel-of-your-organizations) and feel of your [Organization(s)](../../user-management/organization-management.md#organization-management). When a learner from a specific organization signs in to CT their experience would be customized to the settings of their respective organization.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Microsoft community training now lets you [customize the look](../../user-manage
 
 If you have [Organization(s)](../../user-management/organization-management.md#organization-management) enabled for your instance, you can now [add users to specific organization](../../user-management/organization-management.md#assign-learners-to-organizations) via Admin view. 
 
-We've enforced [validations at the Organization level](../../user-management/organization-management.md#impact-of-organizations-in-various-admin-flows) for various flows within MCT for seamless management of your Organizations.
+We've enforced [validations at the Organization level](../../user-management/organization-management.md#impact-of-organizations-in-various-admin-flows) for various flows within CT for seamless management of your Organizations.
 
 ### Behavioral changes due to enhancements in Organization Management
 
@@ -45,21 +45,21 @@ We've enforced [validations at the Organization level](../../user-management/org
 
 ## Masking of User information
 
-MCT now allows customers to [mask user information](../../settings/configurations-on-the-training-platform.md#mask-user-details-for-admin) within an instance. This is to prevent the admin from viewing sensitive user information. The data to be masked can be controlled by an [app setting](../../settings/configurations-on-the-training-platform.md#mask-user-details-for-admin).
+CT now allows customers to [mask user information](../../settings/configurations-on-the-training-platform.md#mask-user-details-for-admin) within an instance. This is to prevent the admin from viewing sensitive user information. The data to be masked can be controlled by an [app setting](../../settings/configurations-on-the-training-platform.md#mask-user-details-for-admin).
 
 :::image type="content" source="../../media/maskingfields.png" alt-text="fieldsmasking":::
 
 ## Localization for Learning Path and Category
 
-For increased adaptability, MCT now supports localization of your [learning path](../../content-management/manage-content/manage-learning-path/change-learning-path-details.md#change-learning-path-details) and [category](../../content-management/create-content/create-course-category/create-a-category.md#create-a-category) fields.
+For increased adaptability, CT now supports localization of your [learning path](../../content-management/manage-content/manage-learning-path/change-learning-path-details.md#change-learning-path-details) and [category](../../content-management/create-content/create-course-category/create-a-category.md#create-a-category) fields.
 
 ## Other enhancements/additions
 
 ### Support for Course progress import and Course content export with external LMS
 
-Microsoft Community Training platform lets [global administrators](../../user-management/add-users/add-an-administrator-to-the-portal.md#add-a-global-administrator-to-the-platform) [import user progress](../../frequently-asked-questions/custom-integration.md#steps-to-how-to-integrate-apis-to-import-progress) from other learning portals which will enable seamless experience for learner.
+Community Training lets [global administrators](../../user-management/add-users/add-an-administrator-to-the-portal.md#add-a-global-administrator-to-the-platform) [import user progress](../../frequently-asked-questions/custom-integration.md#steps-to-how-to-integrate-apis-to-import-progress) from other learning portals which will enable seamless experience for learners.
 
-Customers can also [export course content](../../frequently-asked-questions/custom-integration.md#export-course-content-to-other-lms) from MCT to other learning portals.
+Customers can also [export course content](../../frequently-asked-questions/custom-integration.md#export-course-content-to-other-lms) from CT to other learning portals.
 
 ### Enhanced PWA responsiveness
 
@@ -71,7 +71,7 @@ Content downloaded for offline consumption in your PWA will now have a redirecti
 
 ### Certificates are now being generated asynchronously
 
-Certificate generation flow is now optimized to be in sync with load/traffic on the platform. i.e. learner will see a slight delay in getting the certificate based on the concurrent requests on the platform.
+Certificate generation flow is now optimized to be in sync with load/traffic on the platform. i.e. learners will see a slight delay in getting the certificate based on the concurrent requests on the platform.
 
 ### Fixed encoding issues for CSV file uploads
 
@@ -93,7 +93,7 @@ Adjusted the counting logic to not count system admin in case of auto-enroll cou
 
 Post publishing a lesson you can now replace the content of that lesson.
 
-### Fixed multiple issues with SCORM and HTML lessons rendering in MCT
+### Fixed multiple issues with SCORM and HTML lessons rendering in CT
 
 Fixed content access issues for HTML and SCORM lessons.
 

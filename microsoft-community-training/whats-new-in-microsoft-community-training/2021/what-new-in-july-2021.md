@@ -2,15 +2,15 @@
 title: What's new in July 2021
 author: nikotha
 ms.author: nikotha
-description: This document details the new features and capabilities launched on the Microsoft Community Training platform in July 2021. 
+description: This document details the new features and capabilities launched on Community Training in July 2021. 
 ms.prod: learning-azure
 ---
 
 # What's new in July 2021
 
-Fighting the pandemic for more than a year now has been extremely tough and has posed numerous challenges for the entire world. Just like everyone else, the Microsoft Community Training Team emerged even stronger and found means to contribute to society in every possible way.
+Fighting the pandemic for more than a year now has been extremely tough and has posed numerous challenges for the entire world. Just like everyone else, the Community Training Team emerged even stronger and found means to contribute.
 
-Today, we are excited to share the new Microsoft Community Training product update with you! These features are testimony to the fact that your feedback is critical for the platform’s success and we have been acting on it ensuring you can seamlessly deliver online learning to your community.
+Today, we are excited to share the new Community Training product update with you! The new features are testimony to the fact that your feedback is critical for the platform’s success and we have been acting on it ensuring you can seamlessly deliver online learning to your community.
 
 ## Content Localization
 
