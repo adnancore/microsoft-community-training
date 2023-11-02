@@ -32,7 +32,7 @@ In this article, you will learn more about connecting Power BI with Azure SQL Da
 
 2. On the top bar select the PHP option.
 
-    :::image type="content" source="../../media/image%28361%29.png" alt-text="select PHP on the nav bar":::
+    :::image type="content" source="../../media/image%28361%29.png" alt-text="A screenshot showing how to select PHP on the navigation bar.":::
 
 3. You will be able to view your SQL Databases server name and username.
 
@@ -40,23 +40,23 @@ In this article, you will learn more about connecting Power BI with Azure SQL Da
 
 1. Open Power BI → select the **Get data** icon and select **More**.
 
-    :::image type="content" source="../../media/image%28362%29.png" alt-text="Open Power BI, click on the get data icon and select more":::
+    :::image type="content" source="../../media/image%28362%29.png" alt-text="A screenshot showing how to open Power BI, select the get data icon, and select more.":::
 
 2. Search and select **Azure SQL database** then select **Connect** .
 
-    :::image type="content" source="../../media/image%28363%29.png" alt-text="Search and select Azure SQL database and click on the connect button":::
+    :::image type="content" source="../../media/image%28363%29.png" alt-text="A screenshot showing how to search and select Azure SQL database, and select the connect button.":::
 
 3. Enter your SQL DB server details and select **OK**.
 
-    :::image type="content" source="../../media/image%28364%29.png" alt-text="Enter your SQL DB server details and click on ok button":::
+    :::image type="content" source="../../media/image%28364%29.png" alt-text="A screenshot showing how to enter your SQL DB server details and select the OK button.":::
 
 4. Enter your database user name, and password then select **Connect**.
 
-    :::image type="content" source="../../media/image%28365%29.png" alt-text="Enter your database user name, and password and click on the connect button":::
+    :::image type="content" source="../../media/image%28365%29.png" alt-text="A screenshot showing how to enter your database user name, and password and select the connect button.":::
 
 5. Select the tables that you want to be imported and select **Load**. You may refer to the [Database schema](database-schema.md) for the entity relationship.
 
-    :::image type="content" source="../../media/image%28366%29.png" alt-text="Select the tables to import and click on load button":::
+    :::image type="content" source="../../media/image%28366%29.png" alt-text="Select the tables to import and select load button":::
 
 6. All your selected tables will be imported into Power BI, and become available under fields:
 
@@ -113,6 +113,6 @@ If you already have your credentials for connecting to DB then proceed to step 3
 >
 >![firewall select](../../media/firewal%20select.png)
 >
->To add client IP, click on add client IP and select the save icon.
+>To add client IP, select add client IP and select the save icon.
 >
 >![Save](../../media/FIREWAL.png)
