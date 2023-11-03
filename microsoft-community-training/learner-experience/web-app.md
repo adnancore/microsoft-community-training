@@ -35,8 +35,9 @@ This article explains how learners can access the training content using the web
 
 ### For existing users
 
-1. Select the profile icon on the top right corner of the learner view page.
+1. Select the profile icon on the top right corner of the learner view page. Then select **My profile**.
 
+    :::image type="content" source="../media/Profile Field - edit from learner view 0.PNG" alt-text="A screenshot showing how to select the profile icon.":::
     :::image type="content" source="../media/Profile Field - edit from learner view 1.PNG" alt-text="A screenshot showing how to edit from learner view.":::
 
 2. Modify the profile field(s) as required.
@@ -52,11 +53,9 @@ This article explains how learners can access the training content using the web
 
 1. After setting up the profile, you can change the language from the dropdown in the navigation bar.
 
-    :::image type="content" source="../media/LearnerLanguage2.jpg" alt-text="Learner language":::
+    :::image type="content" source="../media/LearnerLanguage1.png" alt-text="Learner language drop down":::
 
 2. Select the dropdown and choose a language from the available options.
-
-    :::image type="content" source="../media/LearnerLanguage1.jpg" alt-text="Learner language drop down":::
 
 3. Content on the homepage will be updated based on your chosen language. Refer to [**Course Translations**](../content-management/create-content/create-course-category/create-a-new-course.md#option-4---create-multiple-translations-of-a-course) to understand how language change impacts the learner view.
 
@@ -102,15 +101,11 @@ This article explains how learners can access the training content using the web
 
     :::image type="content" source="../media/image(415).png" alt-text="My Courses":::
 
-2. Below the **My Progress** bar, you can find the learning paths with completion status represented in the form of a percentage and progress bar.
+2. Below the **My Progress** bar, you can find courses with completion status represented in the form of a percentage and progress bar.
 
     :::image type="content" source="../media/image(435).png" alt-text="Progress":::
 
-3. If you scroll down, for each course item displayed, you can also see a completion status represented in the form of a percentage and progress bar.
-
-    :::image type="content" source="../media/image(183).png" alt-text="Completions status":::
-
-4. All the completed courses are stacked together at the bottom of the page.
+3. All the completed courses are stacked together at the bottom of the page.
 
 ## Step 7: Discuss and share information with peers
 
