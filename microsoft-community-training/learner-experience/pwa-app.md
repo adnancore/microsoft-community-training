@@ -28,8 +28,6 @@ This article explains how learners can access training content using the [Progre
 
 1. For mobile devices (Android), you can install PWA by selecting the  **Add to home screen** prompt that you receive while browsing Community Training instance or selecting **install app** from browser options.
 
-    :::image type="content" source="../media/Screenshot_20210930-161736_Chrome (3).jpg" alt-text="pwainstallimage":::
-
 > [!NOTE]
 > The learner experience is the same for both installation options.
 
@@ -37,7 +35,7 @@ This article explains how learners can access training content using the [Progre
 
 1. On app launch, you'll need to sign in to access the application.
 
-2. Depending on the [**login identity setup**](../infrastructure-management/install-your-platform-instance/configure-login-social-work-school-account.md), you'll need to sign in using your 10-digit mobile number, email address, social account, or Azure Active Directory account.
+2. Depending on the [**login identity setup**](../infrastructure-management/install-your-platform-instance/configure-login-social-work-school-account.md), you'll need to sign in using your email address, social account, or Azure Active Directory account.
 
     :::image type="content" source="../media/image(189).png" alt-text="Login-identity":::
 
@@ -75,13 +73,13 @@ This article explains how learners can access training content using the [Progre
 
 ## Step 5: View and consume course content
 
-1. On the **My Course** page, select the Learning Path or Course item, which you want to view and learn.
+1. On the **My Course** page, select the Course item which you want to view and learn.
 
 2. Every course consists of a course description, lessons, and assessments (graded or non-graded) as shown in the course outline. You will see a green circled tick mark once a course item is completed:
 
     :::image type="content" source="../media/pwaoffvoureview.png" alt-text="pwaofflinecourseview":::
 
-3. To view any lesson content or attempt a practice quiz, select the course item in the outline.
+3. To view any lesson content or attempt an assessment, select the course item in the outline.
 
 4. On successful completion of the course, you'll receive a certificate if enabled by the administrator.
 
