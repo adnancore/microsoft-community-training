@@ -115,9 +115,7 @@ This article explains how learners can access the training content using the web
 
     :::image type="content" source="../media/image(163).png" alt-text="Comment":::
 
-3. Enter your comments and select the **Send** button to submit the comments:
-
-     :::image type="content" source="../media/image%28184%29.png" alt-text="Add a comment":::
+3. Enter your comments and select the **Send** button to submit the comments.
 
 4. You can also view and reply to the comments added by other learners.
 
@@ -125,18 +123,15 @@ This article explains how learners can access the training content using the web
 
 1. On the top right of the screen, you'll find the **Notifications** icon.
 
-    :::image type="content" source="../media/image(185).png" alt-text="Notifications":::
+    :::image type="content" source="../media/image(186).png" alt-text="replies to your comments":::
 
 2. Select the icon to open the Notification drawer and get updates on new courses assigned to you, replies to your comments, and more.
-
-    :::image type="content" source="../media/image(186).png" alt-text="replies to your comments":::
 
 ## Step 9: View Notice Board
 
 1. On the top right of the screen, you'll find the **Notice Board** icon.  
 
-    :::image type="content" source="../media/image(187).png" alt-text="Notice Board":::
+    :::image type="content" source="../media/image(188).png" alt-text="announcements by admin":::
 
 2. Select the icon to open the Notice Board and read all announcements posted by the administrator.
 
-    :::image type="content" source="../media/image(188).png" alt-text="announcements by admin":::
