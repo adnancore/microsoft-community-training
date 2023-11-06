@@ -92,8 +92,6 @@ This article explains how learners can access training content using the [Progre
 
 2. To manage your downloads, select the profile section from the top right of the screen.
 
-    :::image type="content" source="../media/pwaofflang.png" alt-text="pwaofflinemydownloads":::
-
 3. While offline, you can access the downloaded content by selecting the specific course items that you downloaded from the course player page.
 
 ## Step 7: Delete downloaded content to free up space
